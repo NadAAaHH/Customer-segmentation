@@ -1,11 +1,12 @@
-<img src="https://www.gsam.com/content/gsam/base/en/market-insights/gsam-insights/quantinomics/credit-card-data/_jcr_content/main_content_top_par/public/main_content_top_par/background_e265/background/image_fb85.img.gif/1518447836002.gif" alt="drawing" width="200"/>
+<img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" alt="drawing" width="200"/>
 
 # Customer Segmentation: Can credit card habits be used to better understand the customers?
 
 
 ### What's the Problem & Why it's Important?
-Segmenting customers is essential for businesses to understand their customers' unique needs and preferences. By grouping customers into segments based on shared characteristics, businesses can develop personalized marketing campaigns, products, and services that are more likely to resonate with each group.  
+Understanding customers is essential to any business's success. It enables them to create messaging and offers that are relevant to their target audience, rather than relying on assumptions about their preferences and needs. By segmenting customers into groups based on common characteristics, businesses can develop personalized marketing campaigns, products, and services that are more likely to resonate with each group.  
 
+&nbsp;
 ### What's the Goal of This Project?
 This project aims to develop a predictive model that can determine which employees are most likely to leave based on various information about the employee's personal and professional history.
 
