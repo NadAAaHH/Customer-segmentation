@@ -13,7 +13,7 @@ This project aims to develop a clustering model that can divide customers into g
 &nbsp;
 
 # Dataset Analysis
-#### Data
+#### Data Statistics
 * **Source:** [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 * **Dataset Structure:** 8950 samples (rows), 18 features (variables)
 * **Data Types:** 1 categorical, 17 numeric
