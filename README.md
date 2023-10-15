@@ -3,7 +3,7 @@
 # Customer Segmentation: Can Analyzing Credit Card Habits Help Create an Effective Segmentation?
 
 ### What's the Problem & Why it's Important?
-Understanding customers is essential for any business's success. Instead of using a cookie-cutter marketing strategy, segmenting customers into groups based on common characteristics enables marketers to gain in-depth insights and develop personalized marketing campaigns, products, and offers that are relevant to each group, rather than relying on assumptions about their preferences and needs.
+Understanding customers is essential for any business's success. Instead of using a cookie-cutter marketing strategy, segmenting customers into groups based on common characteristics enables marketers to gain in-depth insights, and develop personalized marketing that are relevant to each group such as campaigns, products, and offers. Rather than relying on assumptions about their preferences and needs.
 
 &nbsp;
 ### What's the Goal of This Project?
@@ -31,7 +31,7 @@ Based on the above findings, the following factors were found to have the most i
 
 &nbsp;
 # Model Development
-Since this is an **unsupervised clustering problem** , the K-means to cluster
+Since this is an **unsupervised clustering problem** , a K-means model will be developed for clustering.
   
 &nbsp;
 ### Evaluation
