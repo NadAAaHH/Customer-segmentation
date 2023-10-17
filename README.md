@@ -11,7 +11,6 @@ This project aims to develop a clustering model that can divide customers into g
 
 
 &nbsp;
-
 # Dataset Analysis
 #### Data Statistics
 * **Source:** [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
@@ -58,6 +57,3 @@ After conducting the results of the models, we can conclude the top Reasons why 
 * Age: This could also be expected, since people who are aiming to retire will leave the organization.
   
 Knowing the most likely reasons why employees leave the organization, can help the organization take action and reduce the level of Attrition inside the organization.
-
-
-
