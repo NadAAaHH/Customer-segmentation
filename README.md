@@ -9,9 +9,17 @@ Understanding customers is essential for any business's success. Instead of usin
 ### What's the Goal of This Project?
 This project aims to develop a clustering model that can divide customers into groups based on their regular pattern and behaviors associated with their credit cards usage.
 
-
+### Approach
+1. Define the Problem and Objectives:
+2. Data Collection:
+3. Data Understanding & Exploratory Data Analysis (EDA):
+4. Data Preprocessing:
+5. Model Selection & Training:
+6. Cluster Analysis:
+7. Monitoring and Maintenance:
+   
 &nbsp;
-# Dataset Analysis
+# Data
 #### Data Statistics
 * **Source:** [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 * **Dataset Structure:** 8950 samples (rows), 18 features (variables)
@@ -20,6 +28,7 @@ This project aims to develop a clustering model that can divide customers into g
 * **Missing cells (%):**	0.2%
 * **Total size in memory:**	1.7 MiB
 * **Average record size in memory:**	199.0 B
+
 
 &nbsp;
 ### Exploratory Data Analysis
@@ -30,7 +39,7 @@ Based on the above findings, the following factors were found to have the most i
 
 &nbsp;
 # Model Development
-Since this is an **unsupervised clustering problem** , a K-means model will be developed for clustering.
+Since this is an **unsupervised clustering problem** , a K-means model was developed for the clustering.
   
 &nbsp;
 ### Evaluation
