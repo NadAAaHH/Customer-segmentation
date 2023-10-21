@@ -9,7 +9,8 @@ Understanding customers is essential for any business's success. Instead of usin
 ### What's the Goal of This Project?
 This project aims to develop a clustering model that can divide customers into groups based on their regular pattern and behaviors associated with their credit cards usage.
 
-### Approach
+&nbsp;
+# Approach
 1. Define the Problem and Objectives:
 2. Data Collection:
 3. Data Understanding & Exploratory Data Analysis (EDA):
@@ -31,7 +32,7 @@ This project aims to develop a clustering model that can divide customers into g
 
 
 &nbsp;
-### Exploratory Data Analysis
+### Exploratory Data Analysis (EDA)
 Based on the above findings, the following factors were found to have the most impact on employee attrition:
 1. Newly recruited employees 
 2. At late 20's and early 30's 
@@ -40,23 +41,6 @@ Based on the above findings, the following factors were found to have the most i
 &nbsp;
 # Model Development
 Since this is an **unsupervised clustering problem** , a K-means model was developed for the clustering.
-  
-&nbsp;
-### Evaluation
-To evaluate the models performance, the following measurements were used:
-* Confusion matrix
-* Precision
-* Recall
-* Accuracy
-
-&nbsp;
-### Performance
-
-| Model | Accuracy    | Precision    | Recall    |
-| :---:   | :---: | :---: | :---: |
-| Neural Network | 87.96 %   | --   | --   |
-| Random Forest | 86.68 %   | --   | --   |
-| Logistic Regression | 75.54 %   | --   | --   |
 
 &nbsp;
 # Conclusion
