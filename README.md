@@ -31,10 +31,9 @@ This project aims to develop a clustering model that can divide customers into g
 
 &nbsp;
 ### Exploratory Data Analysis (EDA)
-Based on the above findings, the following factors were found to have the most impact on employee attrition:
-1. Newly recruited employees 
-2. At late 20's and early 30's 
-3. Living far from work 
+
+Credit Limit vs. Balance based on Tenure
+
 
 &nbsp;
 # Model Development
