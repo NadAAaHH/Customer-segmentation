@@ -1,14 +1,17 @@
+---
+### Table of Contents
+1. [Define the Problem and Objectives](#what's-the-problem-&-why-it's-important?)
+2. [Data Statistics & Exploratory Data Analysis (EDA)](#data)
+3. [Model Development](#model-development)
+4. [Cluster Analysis](#cluster-analysis)
+---
+
 
 <img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" alt="drawing" width="200"/>
 
 # Customer Segmentation: Can Analyzing Credit Card Habits Create an Effective Segmentation?
 
-# Table of Contents
-1. [Define the Problem and Objectives](#what's-the-problem-&-why-it's-important?)
-2. [Data Statistics & Exploratory Data Analysis (EDA)](#data)
-3. [Model Development](#model-development)
-4. [Cluster Analysis](#cluster-analysis)
-
+&nbsp;
 
 ### What's the Problem & Why it's Important?
 Understanding customers is essential for any business's success. Instead of using a cookie-cutter marketing strategy, segmenting customers into groups based on common characteristics enables marketers to gain in-depth insights, and develop personalized marketing such as campaigns, products, and offers that are relevant to each group. Rather than relying on assumptions about their preferences and needs.
