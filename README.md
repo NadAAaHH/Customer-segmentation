@@ -1,6 +1,6 @@
 <img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" alt="drawing" width="200"/>
 
-# Customer Segmentation: Can Analyzing Credit Card Habits Create an Effective Segmentation?
+<h1 style="text-decoration: none;">Customer Segmentation: Can Analyzing Credit Card Habits Create an Effective Segmentation?</h1>
 
 ### Table of Contents
 1. [Problem Definition & Objectives](#header-1)
@@ -9,7 +9,8 @@
 4. [Cluster Analysis](#cluster-analysis)
 
 &nbsp;
-### <a id="header-1"></a> What's the Problem & Why it's Important?
+# <a id="header-1"></a> Problem Definition & Objectives
+### What's the Problem & Why it's Important?
 Understanding customers is essential for any business's success. Instead of using a cookie-cutter marketing strategy, segmenting customers into groups based on common characteristics enables marketers to gain in-depth insights, and develop personalized marketing such as campaigns, products, and offers that are relevant to each group. Rather than relying on assumptions about their preferences and needs.
 
 &nbsp;
