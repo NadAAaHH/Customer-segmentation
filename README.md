@@ -1,4 +1,4 @@
-<img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" alt="drawing" width="200"/>
+<img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/>
 
 # Customer Segmentation: Can Analyzing Credit Card Habits Create an Effective Segmentation?
 
@@ -30,9 +30,16 @@ This project aims to develop a clustering model that can divide customers into g
 
 
 &nbsp;
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA) 
 
-Credit Limit vs. Balance based on Tenure
+#### Balance vs Minimum Payments  
+<img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>  
+> Typically, the MINIMUM_PAYMENTS is often depends on the current BALANCE amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
+
+#### Credit Limit vs Balance 
+<img src="Screenshots/CREDIT_LIMIT vs BALANCE.png"/>
+> The scatter plot is somewhat forming an angeld triangle, where the hypotenuse of the triangle is hinting for a correlation between the two features.
+
 
 
 &nbsp;
