@@ -31,16 +31,23 @@ This project aims to develop a clustering model that can divide customers into g
 
 &nbsp;
 ### Exploratory Data Analysis (EDA) 
+&nbsp;
+#### Purchases vs One-off Purchases
+<img src="Screenshots/PURCHASES vs ONEOFF_PURCHASES.png"/>
 
-#### Balance vs Minimum Payments  
-<img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>  
-> Typically, the MINIMUM_PAYMENTS is often depends on the current BALANCE amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
+> The plotted data points is forming an upward pattern from left to right, which refers to a high correlation between the two features as indicated by the heatmap. This correlation could imply that most purchases were one-off purchases.  
+The distant datapoints may be due to the large number of outliers in the dataset or other factors.
 
+&nbsp;
 #### Credit Limit vs Balance 
 <img src="Screenshots/CREDIT_LIMIT vs BALANCE.png"/>
+
 > The scatter plot is somewhat forming an angeld triangle, where the hypotenuse of the triangle is hinting for a correlation between the two features.
 
-
+&nbsp;
+#### Balance vs Minimum Payments
+&emsp; <img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>
+> Typically, the `MINIMUM_PAYMENTS` is often depends on the current `BALANCE` amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
 
 &nbsp;
 # Model Development
