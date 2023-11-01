@@ -62,7 +62,7 @@ Since this is an **unsupervised clustering problem** , a K-means model was devel
 &nbsp;
 ### K-means
 <img src="Screenshots/vlaue of k.png"/>
-Based on the above figure, the elbow is located at **k = 4**. Therefore, the model will be created with 4 clusters.
+Based on the above figure, the elbow is located at **k  4**. Therefore, the model will be created with 4 clusters.
 
 &nbsp;
 <div style="display: flex;">
