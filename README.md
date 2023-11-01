@@ -31,27 +31,47 @@ This project aims to develop a clustering model that can divide customers into g
 
 &nbsp;
 ### Exploratory Data Analysis (EDA) 
+
 &nbsp;
-#### Purchases vs One-off Purchases
+#### **Purchases vs One-off Purchases**
 <img src="Screenshots/PURCHASES vs ONEOFF_PURCHASES.png"/>
 
-> The plotted data points is forming an upward pattern from left to right, which refers to a high correlation between the two features as indicated by the heatmap. This correlation could imply that most purchases were one-off purchases.  
+The plotted data points is forming an upward pattern from left to right, which refers to a high correlation between the two features as indicated by the heatmap. This correlation could imply that most purchases were one-off purchases.  
 The distant datapoints may be due to the large number of outliers in the dataset or other factors.
 
 &nbsp;
-#### Credit Limit vs Balance 
+#### **Credit Limit vs Balance**
 <img src="Screenshots/CREDIT_LIMIT vs BALANCE.png"/>
 
-> The scatter plot is somewhat forming an angeld triangle, where the hypotenuse of the triangle is hinting for a correlation between the two features.
+The scatter plot is somewhat forming an angeld triangle, where the hypotenuse of the triangle is hinting for a correlation between the two features.
 
 &nbsp;
 #### Balance vs Minimum Payments
-&emsp; <img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>
-> Typically, the `MINIMUM_PAYMENTS` is often depends on the current `BALANCE` amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
+<img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>
+Typically, the `MINIMUM_PAYMENTS` is often depends on the current `BALANCE` amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
 
 &nbsp;
+#### Features That Changes Over Time
+<img src="Screenshots/Features That Changes Over Time.png"/>
+In general, all the plotted features against `TENURE` have an upward trend. Indicating that they are increasing over time.
+
+&nbsp;&nbsp;
 # Model Development
 Since this is an **unsupervised clustering problem** , a K-means model was developed for the clustering.
+
+&nbsp;
+### K-means
+<img src="Screenshots/vlaue of k.png"/>
+Based on the above figure, the elbow is located at **k = 4**. Therefore, the model will be created with 4 clusters.
+
+&nbsp;
+<div style="display: flex;">
+    <img src="Screenshots/Customer Segmentation Using K-Means Clustering.png" width="600" />
+    <img src="Screenshots/Size of Clusters in Percentages.png" width="400" />
+</div>
+
+The above figures illustrates the clusters distribution in the scatter plot, and the size of clusters in percentages. As indicated by both figures, The clusters are very close in size, with the exception of **Cluster 4**, which is the smallest cluster.
+
 
 &nbsp;
 # Cluster Analysis
