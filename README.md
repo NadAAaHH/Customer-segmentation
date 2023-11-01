@@ -1,6 +1,6 @@
 <img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/>
 
-# Customer Segmentation: Can we create effective customer segments by analyzing their credit card habits?
+# Customer Segmentation: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits?
 
 ### Table of Contents
 1. [Problem Definition & Objectives](#header-1)
