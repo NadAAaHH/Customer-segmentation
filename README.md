@@ -75,9 +75,37 @@ The above figures illustrates the clusters distribution in the scatter plot, and
 
 &nbsp;
 # Cluster Analysis
-After conducting the results of the models, we can conclude the top Reasons why employees leave the organization:
-* No Overtime: This was a surpirse, employees who don't have overtime are most likely to leave the organization. This could be that employees would like to have a higher amount of income or employees could feel that they are underused.
-* Monthly Income: As expected, Income is a huge factor as why employees leave the organization in search for a better salary.
-* Age: This could also be expected, since people who are aiming to retire will leave the organization.
-  
-Knowing the most likely reasons why employees leave the organization, can help the organization take action and reduce the level of Attrition inside the organization.
+After conducting cluster analysis, the following section outlines each segment and potential marketing strategies for each one:
+
+- ### Customers Who Prefer to Pay in Advance
+1. Offer attractive discounts, incentives, or early access to the product to encourage customers to pay in advance. 
+2. Build trust by highlighting your secure payment methods and privacy protections. 
+3. If applicable, emphasize the advantages of outright ownership that come with making advance payments. This can be particularly effective for big-ticket items.
+4. Reward loyal customers who consistently make upfront payments with exclusive benefits or discounts.
+
+&nbsp;
+- ### Customers Who Prefer to Pay in Installments
+1. Highlight the convenience and flexibility of paying in installments.
+2. Provide clear and transparent information about the terms and conditions of installment plans, including the total cost, interest rates, and payment schedule.
+3. If applicable, offer competitive interest rates and terms.
+
+ &nbsp;
+- ### Customers Who Prefer to Make One-Off Payments & Have High Balances
+1. Highlight the exclusivity and quality of your product.
+2. Create a VIP loyalty program that offer them exclusive discounts, promotions, and early access to new products.
+3. If applicable, partner with luxury brands and retailers.
+4. Invest in high-quality branding and marketing materials to convey a sense of luxury and sophistication.
+5. If applicable, highlight how your product can be seen as an investment or a store of value. This is especially relevant for products like jewelry or art.
+
+&nbsp;
+- ### Low Spenders Customers
+1. Offer discounts, promotions, and coupons to make your product even more affordable for low spenders.
+2. Low spenders are careful about where they spend their money, so make sure to clearly communicate the value that your product brings to them.
+3. If applicable, offer samples and free trials. This is a great way for low spenders to try your product before they buy it.
+4. Run social media contests and giveaways. 
+5. Offer referral bonuses to customers who refer their friends and family.
+
+&nbsp;   
+Overall, considering the different types of payments across segments, make sure that customers are aware of the payment options available. Highlight these options in your marketing materials, website, and checkout process.
+
+Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly.
