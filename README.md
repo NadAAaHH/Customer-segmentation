@@ -75,7 +75,7 @@ The above figures illustrates the clusters distribution in the scatter plot, and
 
 &nbsp;
 # Cluster Analysis
-After conducting cluster analysis, the following section outlines each segment and potential marketing strategies for each one:
+After analyzing the clusters' statistics and visualizations, the cluster analysis was conducted to interpret the characteristics of each cluster. The following section describes each segment and its potential marketing strategies:
 
 - ### Customers Who Prefer to Pay in Advance
 1. Offer attractive discounts, incentives, or early access to the product to encourage customers to pay in advance. 
