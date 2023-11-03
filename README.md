@@ -111,7 +111,10 @@ Overall, considering the different types of payments across segments, make sure 
 
 Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly.
 
-For more details, please visit the notebook: 
 
-# Thank you for your interest in this repo! I hope it was helpful😄
+&nbsp; 
+For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
+
+&nbsp; 
+### Thank you for your interest in this project! I hope you find it helpful😄
 
