@@ -1,6 +1,12 @@
+# Customer Segmentation: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits?
+
 <img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/>
 
-# Customer Segmentation: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits?
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dwyl/imgup/ci.yml?label=build&style=flat-square&branch=main)
+[![codecov.io](https://img.shields.io/codecov/c/github/dwyl/imgup/main.svg?style=flat-square)](https://codecov.io/github/dwyl/imgup?branch=main)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/imgup/issues)
+[![HitCount](https://hits.dwyl.com/dwyl/imgup.svg?style=flat-square&show=unique)](https://hits.dwyl.com/dwyl/imgup)
+[![Build Status](https://travis-ci.com/NadAAaHH/Customer-segmentation.svg?branch=master)](https://travis-ci.com/NadAAaHH/Customer-segmentation)
 
 
 ### Table of Contents
@@ -113,8 +119,7 @@ Additionally, it might be effective to promote limited-time offers or exclusive 
 
 
 &nbsp; 
-For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
+#### ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
 
 &nbsp; 
 ### Thank you for your interest in this project! I hope you find it helpful😄
-
