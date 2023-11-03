@@ -2,6 +2,7 @@
 
 # Customer Segmentation: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits?
 
+
 ### Table of Contents
 1. [Problem Definition & Objectives](#header-1)
 2. [Data Statistics & Exploratory Data Analysis (EDA)](#data)
@@ -15,7 +16,7 @@ Understanding customers is essential for any business's success. Instead of usin
 
 &nbsp;
 ### What's the Goal of This Project?
-This project aims to develop a clustering model that can divide customers into groups based on their regular pattern and behaviors associated with their credit cards usage.
+This project aims to develop a clustering model that can divide customers into segments based on their regular patterns and behaviors associated with their credit card usage, while also providing potential marketing strategies for each segment.
    
 &nbsp;
 # Data
@@ -75,7 +76,7 @@ The above figures illustrates the clusters distribution in the scatter plot, and
 
 &nbsp;
 # Cluster Analysis
-After analyzing the clusters' statistics and visualizations, the cluster analysis was conducted to interpret the characteristics of each cluster. The following section describes each segment and its potential marketing strategies:
+After the examination of the clusters' statistical data and visualizations, the characteristics of each cluster were identified. The following section outlines each segment and potential marketing strategies for each one:
 
 - ### Customers Who Prefer to Pay in Advance
 1. Offer attractive discounts, incentives, or early access to the product to encourage customers to pay in advance. 
@@ -109,3 +110,8 @@ After analyzing the clusters' statistics and visualizations, the cluster analysi
 Overall, considering the different types of payments across segments, make sure that customers are aware of the payment options available. Highlight these options in your marketing materials, website, and checkout process.
 
 Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly.
+
+For more details, please visit the notebook: 
+
+# Thank you for your interest in this repo! I hope it was helpful😄
+
