@@ -1,12 +1,14 @@
-# Customer Segmentation: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits?
+# `Customer Segmentation`: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits? 
+
+
+Divide Customers into Segments with a K-Means Clustering Model.
 
 <img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/>
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dwyl/imgup/ci.yml?label=build&style=flat-square&branch=main)
 [![codecov.io](https://img.shields.io/codecov/c/github/dwyl/imgup/main.svg?style=flat-square)](https://codecov.io/github/dwyl/imgup?branch=main)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/imgup/issues)
-[![HitCount](https://hits.dwyl.com/dwyl/imgup.svg?style=flat-square&show=unique)](https://hits.dwyl.com/dwyl/imgup)
-[![Build Status](https://travis-ci.com/NadAAaHH/Customer-segmentation.svg?branch=master)](https://travis-ci.com/NadAAaHH/Customer-segmentation)
+[![contributions welcome](https://img.shields.io/badge/feedback-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/app-mvp/issues)
 
 
 ### Table of Contents
