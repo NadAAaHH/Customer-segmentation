@@ -121,4 +121,4 @@ Additionally, it might be effective to promote limited-time offers or exclusive 
  
 &nbsp;
 
-### ░░░░░░░░░  Thank you for your interest in this project! I hope you find it helpful😄 ░░░░░░░░░
+### ░░░░░  Thank you for your interest in this project! I hope you find it helpful😄 ░░░░░
