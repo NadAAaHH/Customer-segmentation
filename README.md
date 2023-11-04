@@ -18,7 +18,7 @@
 
 &nbsp;
 # <a id="header-1"></a> Problem Definition & Objectives
-### What's the Problem & Why it's Important?
+### What's the Problem & Why is it Important?
 Understanding customers is essential for any business's success. Instead of using a cookie-cutter marketing strategy, segmenting customers into groups based on common characteristics enables marketers to gain in-depth insights, and develop personalized marketing such as campaigns, products, and offers that are relevant to each group. Rather than relying on assumptions about their preferences and needs.
 
 &nbsp;
