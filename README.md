@@ -54,21 +54,21 @@ The scatter plot is somewhat forming an angeld triangle, where the hypotenuse of
 
 &nbsp;
 #### ➤ Balance vs Minimum Payments
-<img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>
-Typically, the `MINIMUM_PAYMENTS` is often depends on the current `BALANCE` amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
+<img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>  
+Typically, the <code>MINIMUM_PAYMENTS</code> is often depends on the current <code>BALANCE</code> amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
 
 &nbsp;
 #### ➤ Features That Changes Over Time
 <img src="Screenshots/Features That Changes Over Time.png"/>
-In general, all the plotted features against `TENURE` have an upward trend. Indicating that they are increasing over time.
+In general, all the plotted features against <code>TENURE</code> have an upward trend. Indicating that they are increasing over time.
 
 &nbsp;&nbsp;
 # Model Development
 Since this is an **unsupervised clustering problem** , a K-means model was developed for the clustering.
 
 ### K-means
-<img src="Screenshots/vlaue of k.png"/>
-Based on the above figure, the elbow is located at **k=4**. Therefore, the model will be created with 4 clusters.
+<img src="Screenshots/vlaue of k.png"/>  
+Based on the above figure, the elbow is located at <b>k=4</b> Therefore, the model will be created with 4 clusters.
 
 &nbsp;
 <div style="display: flex;">
@@ -116,11 +116,9 @@ Overall, considering the different types of payments across segments, make sure 
 
 Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly. 
 
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
-
- &nbsp;
- #### &nbsp;&nbsp;&nbsp; ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
+&nbsp;
+#### &nbsp;&nbsp;&nbsp; ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb). 
  
-&nbsp;  
+&nbsp;
 
-### Thank you for your interest in this project! I hope you find it helpful😄
+### ░░░░░░░░░  Thank you for your interest in this project! I hope you find it helpful😄 ░░░░░░░░░
