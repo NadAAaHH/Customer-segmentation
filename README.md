@@ -1,7 +1,7 @@
 # `Customer Segmentation`: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits? 
 
 
-Divide Customers into Segments with a K-Means Clustering Model.
+➽ Divide Customers into Segments with a Clustering Model.
 
 <img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/>
 
@@ -41,26 +41,25 @@ This project aims to develop a clustering model that can divide customers into s
 &nbsp;
 ### Exploratory Data Analysis (EDA) 
 
-&nbsp;
-#### **Purchases vs One-off Purchases**
+#### ➤ Purchases vs One-off Purchases
 <img src="Screenshots/PURCHASES vs ONEOFF_PURCHASES.png"/>
 
 The plotted data points is forming an upward pattern from left to right, which refers to a high correlation between the two features as indicated by the heatmap. This correlation could imply that most purchases were one-off purchases.  
 The distant datapoints may be due to the large number of outliers in the dataset or other factors.
 
 &nbsp;
-#### **Credit Limit vs Balance**
+#### ➤ Credit Limit vs Balance
 <img src="Screenshots/CREDIT_LIMIT vs BALANCE.png"/>
 
 The scatter plot is somewhat forming an angeld triangle, where the hypotenuse of the triangle is hinting for a correlation between the two features.
 
 &nbsp;
-#### Balance vs Minimum Payments
+#### ➤ Balance vs Minimum Payments
 <img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>
 Typically, the `MINIMUM_PAYMENTS` is often depends on the current `BALANCE` amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
 
 &nbsp;
-#### Features That Changes Over Time
+#### ➤ Features That Changes Over Time
 <img src="Screenshots/Features That Changes Over Time.png"/>
 In general, all the plotted features against `TENURE` have an upward trend. Indicating that they are increasing over time.
 
@@ -68,7 +67,6 @@ In general, all the plotted features against `TENURE` have an upward trend. Indi
 # Model Development
 Since this is an **unsupervised clustering problem** , a K-means model was developed for the clustering.
 
-&nbsp;
 ### K-means
 <img src="Screenshots/vlaue of k.png"/>
 Based on the above figure, the elbow is located at **k=4**. Therefore, the model will be created with 4 clusters.
@@ -86,20 +84,20 @@ The above figures illustrates the clusters distribution in the scatter plot, and
 # Cluster Analysis
 After the examination of the clusters' statistical data and visualizations, the characteristics of each cluster were identified. The following section outlines each segment and potential marketing strategies for each one:
 
-- ### Customers Who Prefer to Pay in Advance
+### ➤ Customers Who Prefer to Pay in Advance
 1. Offer attractive discounts, incentives, or early access to the product to encourage customers to pay in advance. 
 2. Build trust by highlighting your secure payment methods and privacy protections. 
 3. If applicable, emphasize the advantages of outright ownership that come with making advance payments. This can be particularly effective for big-ticket items.
 4. Reward loyal customers who consistently make upfront payments with exclusive benefits or discounts.
 
 &nbsp;
-- ### Customers Who Prefer to Pay in Installments
+### ➤ Customers Who Prefer to Pay in Installments
 1. Highlight the convenience and flexibility of paying in installments.
 2. Provide clear and transparent information about the terms and conditions of installment plans, including the total cost, interest rates, and payment schedule.
 3. If applicable, offer competitive interest rates and terms.
 
- &nbsp;
-- ### Customers Who Prefer to Make One-Off Payments & Have High Balances
+&nbsp;
+### ➤ Customers Who Prefer to Make One-Off Payments & Have High Balances
 1. Highlight the exclusivity and quality of your product.
 2. Create a VIP loyalty program that offer them exclusive discounts, promotions, and early access to new products.
 3. If applicable, partner with luxury brands and retailers.
@@ -107,7 +105,7 @@ After the examination of the clusters' statistical data and visualizations, the 
 5. If applicable, highlight how your product can be seen as an investment or a store of value. This is especially relevant for products like jewelry or art.
 
 &nbsp;
-- ### Low Spenders Customers
+### ➤ Low Spenders Customers
 1. Offer discounts, promotions, and coupons to make your product even more affordable for low spenders.
 2. Low spenders are careful about where they spend their money, so make sure to clearly communicate the value that your product brings to them.
 3. If applicable, offer samples and free trials. This is a great way for low spenders to try your product before they buy it.
@@ -119,9 +117,8 @@ Overall, considering the different types of payments across segments, make sure 
 
 Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly.
 
-
-&nbsp; 
-#### ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
+&nbsp;  
+#### &nbsp;&nbsp;&nbsp; ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
 
 &nbsp; 
 ### Thank you for your interest in this project! I hope you find it helpful😄
