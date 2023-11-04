@@ -1,9 +1,8 @@
 # `Customer Segmentation`: Can We Create Effective Customer Segments by Analyzing Their Credit Card Habits? 
 
+<img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/> 
 
 ➽ Divide Customers into Segments with a Clustering Model.
-
-<img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/>
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dwyl/imgup/ci.yml?label=build&style=flat-square&branch=main)
 [![codecov.io](https://img.shields.io/codecov/c/github/dwyl/imgup/main.svg?style=flat-square)](https://codecov.io/github/dwyl/imgup?branch=main)
@@ -116,6 +115,9 @@ After the examination of the clusters' statistical data and visualizations, the 
 Overall, considering the different types of payments across segments, make sure that customers are aware of the payment options available. Highlight these options in your marketing materials, website, and checkout process.
 
 Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly.
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 
 &nbsp;  
 #### &nbsp;&nbsp;&nbsp; ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
