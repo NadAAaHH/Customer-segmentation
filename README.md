@@ -114,13 +114,13 @@ After the examination of the clusters' statistical data and visualizations, the 
 &nbsp;   
 Overall, considering the different types of payments across segments, make sure that customers are aware of the payment options available. Highlight these options in your marketing materials, website, and checkout process.
 
-Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly.
+Additionally, it might be effective to promote limited-time offers or exclusive discounts for each payment method to create a sense of urgency and encourage customers to act quickly. 
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 
-
+ &nbsp;
+ #### &nbsp;&nbsp;&nbsp; ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
+ 
 &nbsp;  
-#### &nbsp;&nbsp;&nbsp; ▶️ For more details, please check the notebook file [here](Customer_Segmentation.ipynb).
 
-&nbsp; 
 ### Thank you for your interest in this project! I hope you find it helpful😄
