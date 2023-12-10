@@ -1,6 +1,6 @@
 # `Customer Segmentation`: Can We Use Credit Card Habits to Create Effective Customer Segments?
 
-<img src="https://taptapcredit.com/wp-content/uploads/2020/01/credit-card.gif" width="200"/>
+<img src="https://i.ibb.co/BtFJ8LR/68747470733a2f2f7461707461706372656469742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30.gif" width="200"/>
 
 ➽ Divide Customers into Segments with a Clustering Model.  
 
