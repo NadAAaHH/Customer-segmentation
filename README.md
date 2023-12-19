@@ -12,7 +12,7 @@
 &nbsp;
 ### Table of Contents
 1. [Problem Definition & Objectives](#header-1)
-2. [Data Statistics & Exploratory Data Analysis (EDA)](#data)
+2. [Data Statistics & Exploratory Data Analysis (EDA)](#dataset-analysis)
 3. [Model Development](#model-development)
 4. [Cluster Analysis](#cluster-analysis)
 
@@ -26,7 +26,7 @@ Understanding customers is essential for any business's success. Instead of usin
 This project aims to develop a clustering model that can divide customers into segments based on their regular patterns and behaviors associated with their credit card usage, while also providing potential marketing strategies for each segment.
    
 &nbsp;
-# Data
+# Dataset Analysis
 ### Data Statistics
 * **Source:** [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 * **Dataset Structure:** 8950 samples (rows), 18 features (variables)
@@ -38,23 +38,28 @@ This project aims to develop a clustering model that can divide customers into s
 
 
 &nbsp;
-### Exploratory Data Analysis (EDA) 
+### Exploratory Data Analysis (EDA)  
 
-#### ➤ Purchases vs One-off Purchases
+#### Bivariate Analysis  
+
+➤ Purchases vs One-off Purchases  
+
 <img src="Screenshots/PURCHASES vs ONEOFF_PURCHASES.png"/>
 
-The plotted data points is forming an upward pattern from left to right, which refers to a high correlation between the two features as indicated by the heatmap. This correlation could imply that most purchases were one-off purchases.  
-The distant datapoints may be due to the large number of outliers in the dataset or other factors.
+The plotted data points is forming an upward pattern from left to right, which refers to a high correlation between the two features as indicated by the heatmap. This correlation could imply that most purchases were one-off purchases. The distant datapoints may be due to the large number of outliers in the dataset or other factors.
 
 &nbsp;
-#### ➤ Credit Limit vs Balance
+➤ Credit Limit vs Balance  
+
 <img src="Screenshots/CREDIT_LIMIT vs BALANCE.png"/>
 
 The scatter plot is somewhat forming an angeld triangle, where the hypotenuse of the triangle is hinting for a correlation between the two features.
 
 &nbsp;
-#### ➤ Balance vs Minimum Payments
+➤ Balance vs Minimum Payments  
+
 <img src="Screenshots/BALANCE vs MINIMUM_PAYMENTS.png"/>  
+
 Typically, the <code>MINIMUM_PAYMENTS</code> is often depends on the current <code>BALANCE</code> amount. But it appears that there's a very low correlation between them. Again, it may be due to outliers or other factors.
 
 &nbsp;
